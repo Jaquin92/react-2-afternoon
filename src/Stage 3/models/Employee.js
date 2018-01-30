@@ -5,7 +5,7 @@ export default class Employee {
     this.phone = phone;
     this.title = title;
   }
-  
+
   updateName(name) {
     this.name = name;
   }
